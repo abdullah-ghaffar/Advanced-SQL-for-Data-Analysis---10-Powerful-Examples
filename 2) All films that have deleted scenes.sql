@@ -1,0 +1,1 @@
+-- Query 2) All films that have deleted scenes
